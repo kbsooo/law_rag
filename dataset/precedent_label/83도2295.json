@@ -1,0 +1,40 @@
+{
+  "info": {
+    "id": 55835658,
+    "dataType": "판결문",
+    "caseNm": "존속상해",
+    "caseTitle": "대법원 1983. 10. 25., 선고, 83도2295, 판결",
+    "courtType": "판례(대법원)",
+    "courtNm": "대법원",
+    "judmnAdjuDe": "1983-10-25",
+    "caseNoID": "83도2295",
+    "caseNo": "83도2295"
+  },
+  "jdgmn": "변론을 분리한 공동피고인의 증인적격",
+  "jdgmnInfo": [
+    {
+      "question": "변론을 분리한 공동피고인의 증인적격이 인정되는가?",
+      "answer": "부정"
+    }
+  ],
+  "Summary": [
+    {
+      "summ_contxt": "공동피고인들에 관하여 변론을 분리하고 각각 증인으로 채택하여 심문한 것은 서로의 공소사실에 대한 증인으로 각각 채택한 취지이고 피고인들 자신의 공소사실에 대한 증인으로 채택한 것은 아니다.",
+      "summ_pass": "서로의 공소사실에 대한 증인으로 각각 채택한 취지이고 피고인들 자신의 공소사실에 대한 증인으로 채택한 것은 아니다."
+    }
+  ],
+  "keyword_tagg": [
+    {
+      "id": 1,
+      "keyword": "공동피고인"
+    }
+  ],
+  "Reference_info": {
+    "reference_rules": "형사소송법 제146조, 제287조, 제297조 제2항",
+    "reference_court_case": ""
+  },
+  "Class_info": {
+    "class_name": "형사A(생활형)",
+    "instance_name": "존속상해"
+  }
+}

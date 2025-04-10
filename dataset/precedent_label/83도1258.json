@@ -1,0 +1,40 @@
+{
+  "info": {
+    "id": 52250822,
+    "dataType": "판결문",
+    "caseNm": "강간치상",
+    "caseTitle": "대법원 1983. 7. 12., 선고, 83도1258, 판결",
+    "courtType": "판례(대법원)",
+    "courtNm": "대법원",
+    "judmnAdjuDe": "1983-07-12",
+    "caseNoID": "83도1258",
+    "caseNo": "83도1258"
+  },
+  "jdgmn": "강간행위로 인한 0.1cm 정도의 회음부 찰과상과 강간치상죄의 성부",
+  "jdgmnInfo": [
+    {
+      "question": "강간행위로 인한 0.1cm 정도의 회음부 찰과상시에 강간치상죄가 성립하는가?",
+      "answer": "긍정"
+    }
+  ],
+  "Summary": [
+    {
+      "summ_contxt": "피고인들이 피해자를 강간하여 피해자에게 요치 10일의 회음부찰과상을 입혔다면 상해의 정도가 0.1cm 정도의 찰과상에 불과하더라도 이것도 형법상 상해의 개념에 해당하므로 강간치상죄의 성립에 영향이 없다.",
+      "summ_pass": "상해의 정도가 0.1cm 정도의 찰과상에 불과하더라도 이것도 형법상 상해의 개념에 해당하므로 강간치상죄의 성립에 영향이 없다."
+    }
+  ],
+  "keyword_tagg": [
+    {
+      "id": 1,
+      "keyword": "상해의 정도"
+    }
+  ],
+  "Reference_info": {
+    "reference_rules": "형법 제301조",
+    "reference_court_case": ""
+  },
+  "Class_info": {
+    "class_name": "형사A(생활형)",
+    "instance_name": "강간치상"
+  }
+}

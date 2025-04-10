@@ -1,0 +1,40 @@
+{
+  "info": {
+    "id": 57213452,
+    "dataType": "판결문",
+    "caseNm": "특수강도·준강도·상습특수절도",
+    "caseTitle": "대법원 1981. 3. 24., 선고, 81도409, 판결",
+    "courtType": "판례(대법원)",
+    "courtNm": "대법원",
+    "judmnAdjuDe": "1981-03-24",
+    "caseNoID": "81도409",
+    "caseNo": "81도409"
+  },
+  "jdgmn": "준강도죄에 있어서의 폭행과 협박의 정도",
+  "jdgmnInfo": [
+    {
+      "question": "준강도죄의 폭행은 현실적으로 반항을 억압하였음을 요하는가?",
+      "answer": "부정"
+    }
+  ],
+  "Summary": [
+    {
+      "summ_contxt": "준강도죄에 있어서의 폭행이나 협박은 상대방의 반항을 억압하는 수단으로서 일반적 객관적으로 가능하다고 인정하는 정도의 것이면 되고 반드시 현실적으로 반항을 억압하였음을 필요로 하는 것은 아니다.",
+      "summ_pass": "반드시 현실적으로 반항을 억압하였음을 필요로 하는 것은 아니다."
+    }
+  ],
+  "keyword_tagg": [
+    {
+      "id": 1,
+      "keyword": "객관적으로 인정"
+    }
+  ],
+  "Reference_info": {
+    "reference_rules": "형법 제335조",
+    "reference_court_case": ""
+  },
+  "Class_info": {
+    "class_name": "형사A(생활형)",
+    "instance_name": "특수강도"
+  }
+}

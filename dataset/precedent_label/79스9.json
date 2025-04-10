@@ -1,0 +1,40 @@
+{
+  "info": {
+    "id": 50680547,
+    "dataType": "판결문",
+    "caseNm": "채권가압류집행취소",
+    "caseTitle": "대법원 1979. 9. 5., 자, 79스9, 결정",
+    "courtType": "판례(대법원)",
+    "courtNm": "대법원",
+    "judmnAdjuDe": "1979-09-05",
+    "caseNoID": "79스9",
+    "caseNo": "79스9"
+  },
+  "jdgmn": "가. 본안사건의 취하간주와 가압류집행취소\n나. 가압류의 유용이 허용되는지 여부",
+  "jdgmnInfo": [
+    {
+      "question": "가압류의 유용이 허용되는가?",
+      "answer": "부정"
+    }
+  ],
+  "Summary": [
+    {
+      "summ_contxt": "가압류신청사건의 본안사건이 취하 간주된 후 다시 같은 내용의 소송을 제기하였다 하더라도 그것을 본안으로 하여 다시 가압류신청을 함은 모르되 위 가압류를 그대로 유용함은 허용될 수 없다.",
+      "summ_pass": "가압류를 그대로 유용함은 허용될 수 없다."
+    }
+  ],
+  "keyword_tagg": [
+    {
+      "id": 1,
+      "keyword": "채권가압류집행취소"
+    }
+  ],
+  "Reference_info": {
+    "reference_rules": "민사소송법 제713조, 제705조",
+    "reference_court_case": "대법원 1976.4.27. 선고 74다2151 판결"
+  },
+  "Class_info": {
+    "class_name": "형사A(생활형)",
+    "instance_name": "채권가압류집행취소"
+  }
+}

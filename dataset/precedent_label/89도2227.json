@@ -1,0 +1,40 @@
+{
+  "info": {
+    "id": 41017704,
+    "dataType": "판결문",
+    "caseNm": "특수강도",
+    "caseTitle": "대법원 1990. 1. 23. 선고 89도2227 판결",
+    "courtType": "판례(대법원)",
+    "courtNm": "대법원",
+    "judmnAdjuDe": "1990-01-23",
+    "caseNoID": "89도2227",
+    "caseNo": "89도2227"
+  },
+  "jdgmn": "형법 제35조의 위헌 여부(소극)",
+  "jdgmnInfo": [
+    {
+      "question": "형법 제35조는 위헌인가?",
+      "answer": "부정"
+    }
+  ],
+  "Summary": [
+    {
+      "summ_contxt": "범행을 반복수행한 자에 대한 가중처벌규정인 형법 제35조의 누범가중 규정은 위헌이라고 볼 수 없다.",
+      "summ_pass": "형법 제35조의 위헌이 아니다."
+    }
+  ],
+  "keyword_tagg": [
+    {
+      "id": 1,
+      "keyword": "위헌"
+    }
+  ],
+  "Reference_info": {
+    "reference_rules": "형법 제35조, 헌법 제11조",
+    "reference_court_case": ""
+  },
+  "Class_info": {
+    "class_name": "형사A(생활형)",
+    "instance_name": "특수강도"
+  }
+}

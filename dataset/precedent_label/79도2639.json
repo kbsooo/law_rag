@@ -1,0 +1,44 @@
+{
+  "info": {
+    "id": 52502653,
+    "dataType": "판결문",
+    "caseNm": "강간치상·재물손괴",
+    "caseTitle": "대법원 1980. 1. 15., 선고, 79도2639, 판결",
+    "courtType": "판례(대법원)",
+    "courtNm": "대법원",
+    "judmnAdjuDe": "1980-01-15",
+    "caseNoID": "79도2639",
+    "caseNo": "79도2639"
+  },
+  "jdgmn": "상고이유 제한의 위헌 여부",
+  "jdgmnInfo": [
+    {
+      "question": "상고이유 제한이 위헌인가?",
+      "answer": "부정"
+    }
+  ],
+  "Summary": [
+    {
+      "summ_contxt": "10년 미만의 징역형이 선고된 사건에서는 양형이 과중하다는 점이 상고이유가 되지 못한다는 형사소송법 제383조 제4호의 규정은 국민의 재판을 받을 권리를 보장한 헌법 위반이 아니다.",
+      "summ_pass": "형사소송법 제383조 제4호의 규정은 국민의 재판을 받을 권리를 보장한 헌법 위반이 아니다."
+    }
+  ],
+  "keyword_tagg": [
+    {
+      "id": 1,
+      "keyword": "강간치상"
+    },
+    {
+      "id": 2,
+      "keyword": "재물손괴"
+    }
+  ],
+  "Reference_info": {
+    "reference_rules": "형사소송법 제383조",
+    "reference_court_case": "대법원 1976.11.9. 선고 76도3076 판결"
+  },
+  "Class_info": {
+    "class_name": "형사A(생활형)",
+    "instance_name": "강간치상"
+  }
+}
