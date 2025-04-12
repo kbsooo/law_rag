@@ -1,0 +1,9 @@
+{
+  "timestamp": "184342",
+  "total_questions": 200,
+  "processed_questions": 181,
+  "correct_answers": 54,
+  "accuracy": 0.2983425414364641,
+  "results_file": "results/criminal_law_results_184342.csv",
+  "batch_output_file": "results/criminal_law_batch_output_20250412_184342.jsonl"
+}

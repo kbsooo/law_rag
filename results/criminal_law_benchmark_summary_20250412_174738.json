@@ -1,0 +1,12 @@
+{
+  "timestamp": "20250412_174738",
+  "total_questions": 200,
+  "processed_questions": 197,
+  "correct_answers": 45,
+  "accuracy": 0.22842639593908629,
+  "batch_processing_time_seconds": 424.94454288482666,
+  "input_file": "results/criminal_law_batch_input_20250412_174738.jsonl",
+  "output_file": "results/criminal_law_batch_output_20250412_174738.jsonl",
+  "results_file": "results/criminal_law_results_20250412_174738.csv",
+  "batch_id": "batch_67fa29b320448190bd6f2bb27b53511a"
+}
