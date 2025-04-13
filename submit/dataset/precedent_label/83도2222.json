@@ -1,0 +1,40 @@
+{
+  "info": {
+    "id": 59874020,
+    "dataType": "판결문",
+    "caseNm": "명예훼손",
+    "caseTitle": "대법원 1983. 10. 11., 선고, 83도2222, 판결",
+    "courtType": "판례(대법원)",
+    "courtNm": "대법원",
+    "judmnAdjuDe": "1983-10-11",
+    "caseNoID": "83도2222",
+    "caseNo": "83도2222"
+  },
+  "jdgmn": "2인 앞에서의 명예훼손과 공연성",
+  "jdgmnInfo": [
+    {
+      "question": "2인 앞에서의 명예훼손이 공연성을 갖는가?",
+      "answer": "긍정"
+    }
+  ],
+  "Summary": [
+    {
+      "summ_contxt": "피고인이 공소외 (갑)의 집앞에서 공소외 (을) 및 피해자의 시어머니(병)이 있는 자리에서 피해자의 명예를 훼손하는 말을 한 사실이 인정된다면, 말의 전파가능성이 없어서 공연성이 결여되었다는 주장은 허용될 수 없다.",
+      "summ_pass": "2인이 있는 자리에서 피해자의 명예를 훼손하는 말을 한 사실이 인정된다면, 말의 전파가능성이 없어서 공연성이 결여되었다는 주장은 허용될 수 없다."
+    }
+  ],
+  "keyword_tagg": [
+    {
+      "id": 1,
+      "keyword": "피해자의 수"
+    }
+  ],
+  "Reference_info": {
+    "reference_rules": "형법 제307조",
+    "reference_court_case": ""
+  },
+  "Class_info": {
+    "class_name": "형사A(생활형)",
+    "instance_name": "명예훼손"
+  }
+}

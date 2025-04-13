@@ -1,0 +1,40 @@
+{
+  "info": {
+    "id": 56800443,
+    "dataType": "판결문",
+    "caseNm": "사기",
+    "caseTitle": "대법원 1983. 7. 26., 선고, 83도1473, 판결",
+    "courtType": "판례(대법원)",
+    "courtNm": "대법원",
+    "judmnAdjuDe": "1983-07-26",
+    "caseNoID": "83도1473",
+    "caseNo": "83도1473"
+  },
+  "jdgmn": "구속에 관한 절차상의 위법이 상고이유가 되는지 여부",
+  "jdgmnInfo": [
+    {
+      "question": "구속에 관한 절차상의 위법이 상고이유가 되는지?",
+      "answer": "부정"
+    }
+  ],
+  "Summary": [
+    {
+      "summ_contxt": "구속영장의 집행상의 위법, 검사의 구속기간의 연장결정, 법원의 구속갱신절차에 위법이 있다는 등의 사유는 형사소송법 제383조 소정의 적법한 상고이유로 삼을 수 없다.",
+      "summ_pass": "형사소송법 제383조 소정의 적법한 상고이유로 삼을 수 없다."
+    }
+  ],
+  "keyword_tagg": [
+    {
+      "id": 1,
+      "keyword": "사기"
+    }
+  ],
+  "Reference_info": {
+    "reference_rules": "형사소송법 제383조",
+    "reference_court_case": ""
+  },
+  "Class_info": {
+    "class_name": "형사A(생활형)",
+    "instance_name": "사기"
+  }
+}

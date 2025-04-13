@@ -1,0 +1,26 @@
+FROM python:3.13-slim
+
+WORKDIR /app
+
+# 필요한 시스템 패키지 설치
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+# 프로젝트 파일 복사
+COPY . /app/
+
+# Python 패키지 설치
+RUN pip install --no-cache-dir -e .
+
+# 환경 변수 설정 (실제 값은 docker run 시 -e 옵션으로 제공)
+ENV NEO4J_URI=""
+ENV NEO4J_USERNAME=""
+ENV NEO4J_PASSWORD=""
+ENV OPENAI_API_KEY=""
+
+# 데이터 디렉토리 볼륨 설정
+VOLUME ["/app/dataset", "/app/results"]
+
+# 실행 명령어
+CMD ["python", "main.py"]

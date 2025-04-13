@@ -1,0 +1,44 @@
+{
+  "info": {
+    "id": 51595254,
+    "dataType": "판결문",
+    "caseNm": "위증",
+    "caseTitle": "대법원 1984. 2. 28., 선고, 84도114, 판결",
+    "courtType": "판례(대법원)",
+    "courtNm": "대법원",
+    "judmnAdjuDe": "1984-02-28",
+    "caseNoID": "84도114",
+    "caseNo": "84도114"
+  },
+  "jdgmn": "위증죄에 있어서의 허위의 진술의 의미",
+  "jdgmnInfo": [
+    {
+      "question": "위증죄에서 말하는 허위의 진술이라는 것은 기억에 반하는 사실을 말하는 것인가?",
+      "answer": "긍정"
+    }
+  ],
+  "Summary": [
+    {
+      "summ_contxt": "위증죄에서 말하는 허위의 진술이라는 것은 그 객관적 사실이 허위라는 것이 아니라 스스로 체험한 사실을 기억에 반하여 진술하는 것, 즉 기억에 반한다는 사실을 말한다.",
+      "summ_pass": "스스로 체험한 사실을 기억에 반하여 진술하는 것, 즉 기억에 반한다는 사실을 말한다."
+    }
+  ],
+  "keyword_tagg": [
+    {
+      "id": 1,
+      "keyword": "위증죄"
+    },
+    {
+      "id": 2,
+      "keyword": "허위의 진술"
+    }
+  ],
+  "Reference_info": {
+    "reference_rules": "형법 제152조 제1항",
+    "reference_court_case": ""
+  },
+  "Class_info": {
+    "class_name": "형사A(생활형)",
+    "instance_name": "위증"
+  }
+}
