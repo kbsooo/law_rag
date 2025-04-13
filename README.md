@@ -1,1 +1,0 @@
-# wrtn AI Engineer 인턴 과제전형

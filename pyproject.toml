@@ -6,8 +6,18 @@ authors = [
     {name = "byungsoo kang"}
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.10"
 dependencies = [
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "python-dotenv>=1.0.0",
+    "langchain>=0.0.300",
+    "langchain-community>=0.0.10",
+    "langchain-openai>=0.0.3",
+    "neo4j>=5.12.0",
+    "openai>=1.14.0",
+    "tqdm>=4.66.0",
+    "pypdf>=3.15.1"
 ]
 
 
