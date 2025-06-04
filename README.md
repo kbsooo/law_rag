@@ -92,6 +92,14 @@ chmod +x ./run.sh
 poetry run python main.py
 ```
 
+### 테스트 실행
+
+프로젝트의 테스트는 pytest로 동작합니다:
+
+```bash
+pytest
+```
+
 ## 기술 스택
 
 - **언어 및 프레임워크**: Python 3.13
